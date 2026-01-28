@@ -1,0 +1,2048 @@
+{
+  "rutas": [
+    {
+      "nombre": "Marabel",
+      "color": "#f1c40f",
+      "horarioInicio": "5:00",
+      "horarioCierre": "22:00",
+      "rutaIda": [
+        {
+          "nombre": "La Y",
+          "horaAproximada": "05:00",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "05:01",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "05:01",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "05:02",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "05:03",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "05:03",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "05:04",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "05:05",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:05",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Calle 3, Cra 2B",
+          "horaAproximada": "05:06",
+          "latitud": 8.24875738392102,
+          "longitud": -73.35907139948276
+        },
+        {
+          "nombre": "Iglesia San Rafael",
+          "horaAproximada": "05:07",
+          "latitud": 8.2483897316126,
+          "longitud": -73.35838831146201
+        },
+        {
+          "nombre": "Cancha la Modelo",
+          "horaAproximada": "05:08",
+          "latitud": 8.24196159357121,
+          "longitud": -73.35909744918224
+        },
+        {
+          "nombre": "Calle 4 sector D2",
+          "horaAproximada": "05:08",
+          "latitud": 8.240243862201,
+          "longitud": -73.35905335868965
+        },
+        {
+          "nombre": "Bendito Sabor",
+          "horaAproximada": "05:09",
+          "latitud": 8.23970101302418,
+          "longitud": -73.35806228246659
+        },
+        {
+          "nombre": "Calle 6A, Cra 16",
+          "horaAproximada": "05:10",
+          "latitud": 8.238888728763536,
+          "longitud": -73.35812799658017
+        },
+        {
+          "nombre": "La torcoroma,Cra 16",
+          "horaAproximada": "05:10",
+          "latitud": 8.239008975231757,
+          "longitud": -73.35910727728717
+        },
+        {
+          "nombre": "Calle 2, Cra 16",
+          "horaAproximada": "05:11",
+          "latitud": 8.239198797492248,
+          "longitud": -73.36092626396557
+        },
+        {
+          "nombre": "Parque Juan XXIII",
+          "horaAproximada": "05:12",
+          "latitud": 8.237758625860593,
+          "longitud": -73.36098412331054
+        },
+        {
+          "nombre": "Calle 2B, Cra 12A",
+          "horaAproximada": "05:12",
+          "latitud": 8.236554616380056,
+          "longitud": -73.36113417710042
+        },
+        {
+          "nombre": "Curva Agua de la Virgen",
+          "horaAproximada": "05:13",
+          "latitud": 8.234607927946568,
+          "longitud": -73.3623304584434
+        },
+        {
+          "nombre": "Calle 5, Cra 10",
+          "horaAproximada": "05:14",
+          "latitud": 8.235080128647223,
+          "longitud": -73.35999079071554
+        },
+        {
+          "nombre": "Instituto Alfonso López",
+          "horaAproximada": "05:14",
+          "latitud": 8.23450502623399,
+          "longitud": -73.35794333723288
+        },
+        {
+          "nombre": "Calle 8, Cra 10",
+          "horaAproximada": "05:15",
+          "latitud": 8.234030051826315,
+          "longitud": -73.35676687248646
+        },
+        {
+          "nombre": "Calle 8",
+          "horaAproximada": "05:16",
+          "latitud": 8.234492608474701,
+          "longitud": -73.35658448225341
+        },
+        {
+          "nombre": "Calle 8, Cra 11B",
+          "horaAproximada": "05:16",
+          "latitud": 8.234434208240772,
+          "longitud": -73.3562143374233
+        },
+        {
+          "nombre": "Funeraria Paez",
+          "horaAproximada": "05:17",
+          "latitud": 8.235599306930357,
+          "longitud": -73.35568369985435
+        },
+        {
+          "nombre": "Parque Central",
+          "horaAproximada": "05:18",
+          "latitud": 8.235109374681524,
+          "longitud": -73.35451020656167
+        },
+        {
+          "nombre": "Parque San Francisco",
+          "horaAproximada": "05:18",
+          "latitud": 8.232584773666717,
+          "longitud": -73.3552451212999
+        },
+        {
+          "nombre": "La Orquin",
+          "horaAproximada": "05:19",
+          "latitud": 8.231804329689892,
+          "longitud": -73.35372162660232
+        },
+        {
+          "nombre": "Cra 9",
+          "horaAproximada": "05:20",
+          "latitud": 8.231476489667594,
+          "longitud": -73.35233626564396
+        },
+        {
+          "nombre": "Hotel Rancho Alegre",
+          "horaAproximada": "05:20",
+          "latitud": 8.231239279190602,
+          "longitud": -73.3518695903829
+        },
+        {
+          "nombre": "Cra 9, Cra 10",
+          "horaAproximada": "05:21",
+          "latitud": 8.231434895530594,
+          "longitud": -73.35125793288319
+        },
+        {
+          "nombre": "Gasolinera Pedro Paez",
+          "horaAproximada": "05:22",
+          "latitud": 8.23076326158005,
+          "longitud": -73.3504040900591
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:22",
+          "latitud": 8.22932955637021,
+          "longitud": -73.35031132353792
+        },
+        {
+          "nombre": "Jahmbrientos",
+          "horaAproximada": "05:23",
+          "latitud": 8.228987902971177,
+          "longitud": -73.34803889094681
+        },
+        {
+          "nombre": "Entrada El Bambo",
+          "horaAproximada": "05:24",
+          "latitud": 8.228158600144948,
+          "longitud": -73.3471230798488
+        },
+        {
+          "nombre": "Entrada El Ramal",
+          "horaAproximada": "05:25",
+          "latitud": 8.227122653899567,
+          "longitud": -73.34353538365482
+        },
+        {
+          "nombre": "Asadero Las Brasas",
+          "horaAproximada": "05:25",
+          "latitud": 8.226573734180677,
+          "longitud": -73.34182489196623
+        },
+        {
+          "nombre": "Entrada al Colsure",
+          "horaAproximada": "05:26",
+          "latitud": 8.225000279411407,
+          "longitud": -73.33783128125452
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:27",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:27",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:28",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:29",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:29",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        }
+      ],
+      "rutaVuelta": [
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:30",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:31",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:32",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:32",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:33",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Entrada al Colsure",
+          "horaAproximada": "05:34",
+          "latitud": 8.225000279411407,
+          "longitud": -73.33783128125452
+        },
+        {
+          "nombre": "Asadero Las Brasas",
+          "horaAproximada": "05:34",
+          "latitud": 8.226573734180677,
+          "longitud": -73.34182489196623
+        },
+        {
+          "nombre": "Entrada El Ramal",
+          "horaAproximada": "05:35",
+          "latitud": 8.227122653899567,
+          "longitud": -73.34353538365482
+        },
+        {
+          "nombre": "Entrada El Bambo",
+          "horaAproximada": "05:36",
+          "latitud": 8.228158600144948,
+          "longitud": -73.3471230798488
+        },
+        {
+          "nombre": "Jahmbrientos",
+          "horaAproximada": "05:37",
+          "latitud": 8.228987902971177,
+          "longitud": -73.34803889094681
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:38",
+          "latitud": 8.22932955637021,
+          "longitud": -73.35031132353792
+        },
+        {
+          "nombre": "Gasolinera Pedro Paez",
+          "horaAproximada": "05:38",
+          "latitud": 8.23076326158005,
+          "longitud": -73.3504040900591
+        },
+        {
+          "nombre": "Calle SENA",
+          "horaAproximada": "05:39",
+          "latitud": 8.232681160259474,
+          "longitud": -73.353257460355
+        },
+        {
+          "nombre": "Panaderia Rio de Oro",
+          "horaAproximada": "05:40",
+          "latitud": 8.235325467818587,
+          "longitud": -73.35233901545466
+        },
+        {
+          "nombre": "Parque Central",
+          "horaAproximada": "05:40",
+          "latitud": 8.235621628913986,
+          "longitud": -73.35322917987887
+        },
+        {
+          "nombre": "Calle Dulce Nombre",
+          "horaAproximada": "05:41",
+          "latitud": 8.23598592456577,
+          "longitud": -73.35420418370254
+        },
+        {
+          "nombre": "Esquina Mercado",
+          "horaAproximada": "05:42",
+          "latitud": 8.236648106413242,
+          "longitud": -73.35586143456172
+        },
+        {
+          "nombre": "Calle 8, Cra 10",
+          "horaAproximada": "05:43",
+          "latitud": 8.234030051826315,
+          "longitud": -73.35676687248646
+        },
+        {
+          "nombre": "Instituto Alfonso López",
+          "horaAproximada": "05:44",
+          "latitud": 8.23450502623399,
+          "longitud": -73.35794333723288
+        },
+        {
+          "nombre": "Calle 5, Cra 10",
+          "horaAproximada": "05:44",
+          "latitud": 8.235080128647223,
+          "longitud": -73.35999079071554
+        },
+        {
+          "nombre": "Curva Agua de la Virgen",
+          "horaAproximada": "05:45",
+          "latitud": 8.234607927946568,
+          "longitud": -73.3623304584434
+        },
+        {
+          "nombre": "Calle 2B, Cra 12A",
+          "horaAproximada": "05:46",
+          "latitud": 8.236554616380056,
+          "longitud": -73.36113417710042
+        },
+        {
+          "nombre": "Parque Juan XXIII",
+          "horaAproximada": "05:46",
+          "latitud": 8.237758625860593,
+          "longitud": -73.36098412331054
+        },
+        {
+          "nombre": "Calle 2, Cra 16",
+          "horaAproximada": "05:47",
+          "latitud": 8.239198797492248,
+          "longitud": -73.36092626396557
+        },
+        {
+          "nombre": "La torcoroma,Cra 16",
+          "horaAproximada": "05:48",
+          "latitud": 8.239008975231757,
+          "longitud": -73.35910727728717
+        },
+        {
+          "nombre": "Calle 6A, Cra 16",
+          "horaAproximada": "05:49",
+          "latitud": 8.238888728763536,
+          "longitud": -73.35812799658017
+        },
+        {
+          "nombre": "Bendito Sabor",
+          "horaAproximada": "05:50",
+          "latitud": 8.23970101302418,
+          "longitud": -73.35806228246659
+        },
+        {
+          "nombre": "Calle 4 sector D2",
+          "horaAproximada": "05:50",
+          "latitud": 8.240243862201,
+          "longitud": -73.35905335868965
+        },
+        {
+          "nombre": "Cancha la Modelo",
+          "horaAproximada": "05:51",
+          "latitud": 8.24196159357121,
+          "longitud": -73.35909744918224
+        },
+        {
+          "nombre": "Iglesia San Rafael",
+          "horaAproximada": "05:52",
+          "latitud": 8.2483897316126,
+          "longitud": -73.35838831146201
+        },
+        {
+          "nombre": "Calle 3, Cra 2B",
+          "horaAproximada": "05:52",
+          "latitud": 8.24875738392102,
+          "longitud": -73.35907139948276
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:53",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "05:54",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "05:55",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "05:56",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "05:56",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "05:57",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "05:58",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "05:58",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "La Y",
+          "horaAproximada": "05:59",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        }
+      ]
+    },
+    {
+      "nombre": "Directo Centro",
+      "color": "#e74c3c",
+      "horarioInicio": "5:30",
+      "horarioCierre": "22:00",
+      "rutaIda": [
+        {
+          "nombre": "La Y",
+          "horaAproximada": "05:02",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "05:03",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "05:04",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "05:05",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "05:06",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "05:06",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "05:07",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "05:08",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:09",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Parque los seguros",
+          "horaAproximada": "05:10",
+          "latitud": 8.249472266319415,
+          "longitud": -73.35720237955655
+        },
+        {
+          "nombre": "La Chispita Roja",
+          "horaAproximada": "05:11",
+          "latitud": 8.248005090603057,
+          "longitud": -73.35696062953113
+        },
+        {
+          "nombre": "Semaforo del Llano",
+          "horaAproximada": "05:12",
+          "latitud": 8.2464491256685,
+          "longitud": -73.35672787697634
+        },
+        {
+          "nombre": "Calle 11, Cra 23",
+          "horaAproximada": "05:13",
+          "latitud": 8.244188779128894,
+          "longitud": -73.35561650998976
+        },
+        {
+          "nombre": "Parque El Martinete",
+          "horaAproximada": "05:13",
+          "latitud": 8.241548228958168,
+          "longitud": -73.3545136849997
+        },
+        {
+          "nombre": "Calle 11, Cra 17",
+          "horaAproximada": "05:14",
+          "latitud": 8.240170764226294,
+          "longitud": -73.35420226712831
+        },
+        {
+          "nombre": "Parque San Agustin",
+          "horaAproximada": "05:15",
+          "latitud": 8.238598325986969,
+          "longitud": -73.353352265441
+        },
+        {
+          "nombre": "Semaforo La Alemana",
+          "horaAproximada": "05:16",
+          "latitud": 8.236057508703427,
+          "longitud": -73.35414949934386
+        },
+        {
+          "nombre": "Parque San Francisco",
+          "horaAproximada": "05:17",
+          "latitud": 8.232584773666717,
+          "longitud": -73.3552451212999
+        },
+        {
+          "nombre": "La Orquin",
+          "horaAproximada": "05:18",
+          "latitud": 8.231804329689892,
+          "longitud": -73.35372162660232
+        },
+        {
+          "nombre": "Cra 9",
+          "horaAproximada": "05:19",
+          "latitud": 8.231476489667594,
+          "longitud": -73.35233626564396
+        },
+        {
+          "nombre": "Hotel Rancho Alegre",
+          "horaAproximada": "05:20",
+          "latitud": 8.231239279190602,
+          "longitud": -73.3518695903829
+        },
+        {
+          "nombre": "Cra 9, Cra 10",
+          "horaAproximada": "05:21",
+          "latitud": 8.231434895530594,
+          "longitud": -73.35125793288319
+        },
+        {
+          "nombre": "Gasolinera Pedro Paez",
+          "horaAproximada": "05:21",
+          "latitud": 8.23076326158005,
+          "longitud": -73.3504040900591
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:22",
+          "latitud": 8.22932955637021,
+          "longitud": -73.35031132353792
+        },
+        {
+          "nombre": "Jahmbrientos",
+          "horaAproximada": "05:23",
+          "latitud": 8.228987902971177,
+          "longitud": -73.34803889094681
+        },
+        {
+          "nombre": "Entrada El Bambo",
+          "horaAproximada": "05:24",
+          "latitud": 8.228158600144948,
+          "longitud": -73.3471230798488
+        },
+        {
+          "nombre": "Entrada El Ramal",
+          "horaAproximada": "05:25",
+          "latitud": 8.227122653899567,
+          "longitud": -73.34353538365482
+        },
+        {
+          "nombre": "Asadero Las Brasas",
+          "horaAproximada": "05:26",
+          "latitud": 8.226573734180677,
+          "longitud": -73.34182489196623
+        },
+        {
+          "nombre": "Entrada al Colsure",
+          "horaAproximada": "05:27",
+          "latitud": 8.225000279411407,
+          "longitud": -73.33783128125452
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:28",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:28",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:29",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:30",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:31",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        }
+      ],
+      "rutaVuelta": [
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:32",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:33",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:34",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:35",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:36",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Entrada al Colsure",
+          "horaAproximada": "05:37",
+          "latitud": 8.225000279411407,
+          "longitud": -73.33783128125452
+        },
+        {
+          "nombre": "Asadero Las Brasas",
+          "horaAproximada": "05:38",
+          "latitud": 8.226573734180677,
+          "longitud": -73.34182489196623
+        },
+        {
+          "nombre": "Entrada El Ramal",
+          "horaAproximada": "05:39",
+          "latitud": 8.227122653899567,
+          "longitud": -73.34353538365482
+        },
+        {
+          "nombre": "Entrada El Bambo",
+          "horaAproximada": "05:40",
+          "latitud": 8.228158600144948,
+          "longitud": -73.3471230798488
+        },
+        {
+          "nombre": "Jahmbrientos",
+          "horaAproximada": "05:40",
+          "latitud": 8.228987902971177,
+          "longitud": -73.34803889094681
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:41",
+          "latitud": 8.22932955637021,
+          "longitud": -73.35031132353792
+        },
+        {
+          "nombre": "Gasolinera Pedro Paez",
+          "horaAproximada": "05:42",
+          "latitud": 8.23076326158005,
+          "longitud": -73.3504040900591
+        },
+        {
+          "nombre": "Calle SENA",
+          "horaAproximada": "05:43",
+          "latitud": 8.232681160259474,
+          "longitud": -73.353257460355
+        },
+        {
+          "nombre": "Panaderia Rio de Oro",
+          "horaAproximada": "05:44",
+          "latitud": 8.235325467818587,
+          "longitud": -73.35233901545466
+        },
+        {
+          "nombre": "Parque Central",
+          "horaAproximada": "05:45",
+          "latitud": 8.235621628913986,
+          "longitud": -73.35322917987887
+        },
+        {
+          "nombre": "DollarCity",
+          "horaAproximada": "05:46",
+          "latitud": 8.236955589130396,
+          "longitud": -73.35282460514404
+        },
+        {
+          "nombre": "Parque San Agustin",
+          "horaAproximada": "05:47",
+          "latitud": 8.238598325986969,
+          "longitud": -73.353352265441
+        },
+        {
+          "nombre": "Calle 11, Cra 17",
+          "horaAproximada": "05:48",
+          "latitud": 8.240170764226294,
+          "longitud": -73.35420226712831
+        },
+        {
+          "nombre": "Parque El Martinete",
+          "horaAproximada": "05:49",
+          "latitud": 8.241548228958168,
+          "longitud": -73.3545136849997
+        },
+        {
+          "nombre": "Calle 11, Cra 23",
+          "horaAproximada": "05:50",
+          "latitud": 8.244188779128894,
+          "longitud": -73.35561650998976
+        },
+        {
+          "nombre": "Semaforo del Llano",
+          "horaAproximada": "05:51",
+          "latitud": 8.2464491256685,
+          "longitud": -73.35672787697634
+        },
+        {
+          "nombre": "La Chispita Roja",
+          "horaAproximada": "05:52",
+          "latitud": 8.248005090603057,
+          "longitud": -73.35696062953113
+        },
+        {
+          "nombre": "Parque los seguros",
+          "horaAproximada": "05:53",
+          "latitud": 8.249472266319415,
+          "longitud": -73.35720237955655
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:54",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "05:54",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "05:55",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "05:56",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "05:57",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "05:58",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "05:59",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "06:00",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "La Y",
+          "horaAproximada": "06:01",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        }
+      ]
+    },
+    {
+      "nombre": "Llano - Sauces",
+      "color": "#2980b9",
+      "horarioInicio": "5:30",
+      "horarioCierre": "18:00",
+      "rutaIda": [
+        {
+          "nombre": "La Y",
+          "horaAproximada": "05:04",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "05:05",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "05:05",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "05:06",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "05:07",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "05:07",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "05:08",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "05:08",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:09",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Calle 3, Cra 2B",
+          "horaAproximada": "05:10",
+          "latitud": 8.24875738392102,
+          "longitud": -73.35907139948276
+        },
+        {
+          "nombre": "Iglesia San Rafael",
+          "horaAproximada": "05:10",
+          "latitud": 8.2483897316126,
+          "longitud": -73.35838831146201
+        },
+        {
+          "nombre": "Amarres y Hechizos Amor Eterno ",
+          "horaAproximada": "05:11",
+          "latitud": 8.247072890277314,
+          "longitud": -73.35849491768538
+        },
+        {
+          "nombre": "Yasser Maquillaje y Peluquería",
+          "horaAproximada": "05:12",
+          "latitud": 8.246452379130973,
+          "longitud": -73.35856841598226
+        },
+        {
+          "nombre": "Cancha Marabel",
+          "horaAproximada": "05:12",
+          "latitud": 8.24635804043987,
+          "longitud": -73.3577486269358
+        },
+        {
+          "nombre": "Semaforo del Llano",
+          "horaAproximada": "05:13",
+          "latitud": 8.246464109169915,
+          "longitud": -73.35670018009463
+        },
+        {
+          "nombre": "Y del llano",
+          "horaAproximada": "05:14",
+          "latitud": 8.246274561531353,
+          "longitud": -73.35665336672865
+        },
+        {
+          "nombre": "Bankroll",
+          "horaAproximada": "05:14",
+          "latitud": 8.245606544267268,
+          "longitud": -73.35652610955052
+        },
+        {
+          "nombre": "Los profesores del asado",
+          "horaAproximada": "05:15",
+          "latitud": 8.244367701750932,
+          "longitud": -73.35641486017457
+        },
+        {
+          "nombre": "Madeko Ocaña",
+          "horaAproximada": "05:15",
+          "latitud": 8.243842894055623,
+          "longitud": -73.35641361536551
+        },
+        {
+          "nombre": "Arteregalos",
+          "horaAproximada": "05:16",
+          "latitud": 8.24326388006005,
+          "longitud": -73.35625303531478
+        },
+        {
+          "nombre": "A tu casa",
+          "horaAproximada": "05:17",
+          "latitud": 8.24271078047639,
+          "longitud": -73.35644503883705
+        },
+        {
+          "nombre": "Multipagos JV",
+          "horaAproximada": "05:17",
+          "latitud": 8.24242821173397,
+          "longitud": -73.35647541310881
+        },
+        {
+          "nombre": "Iglesia del Llano",
+          "horaAproximada": "05:18",
+          "latitud": 8.241841430041715,
+          "longitud": -73.35652401194311
+        },
+        {
+          "nombre": "Taller Santa Barbara",
+          "horaAproximada": "05:19",
+          "latitud": 8.2403832627145,
+          "longitud": -73.35666924838662
+        },
+        {
+          "nombre": "Itografía Letras",
+          "horaAproximada": "05:19",
+          "latitud": 8.239069938229832,
+          "longitud": -73.35526317962224
+        },
+        {
+          "nombre": "Agro Mi Campito",
+          "horaAproximada": "05:20",
+          "latitud": 8.23858171300373,
+          "longitud": -73.35519623119147
+        },
+        {
+          "nombre": "Hotel Santa Elena",
+          "horaAproximada": "05:21",
+          "latitud": 8.237948207038167,
+          "longitud": -73.35431829395121
+        },
+        {
+          "nombre": "Torre del Conquistador",
+          "horaAproximada": "05:21",
+          "latitud": 8.23790838904398,
+          "longitud": -73.35359141531471
+        },
+        {
+          "nombre": "Andalucia Centro Comercial",
+          "horaAproximada": "05:22",
+          "latitud": 8.236972384246153,
+          "longitud": -73.3538616134969
+        },
+        {
+          "nombre": "Semaforo La Alemana",
+          "horaAproximada": "05:23",
+          "latitud": 8.236057508703427,
+          "longitud": -73.35414949934386
+        },
+        {
+          "nombre": "Parque San Francisco",
+          "horaAproximada": "05:23",
+          "latitud": 8.232584773666717,
+          "longitud": -73.3552451212999
+        },
+        {
+          "nombre": "La Orquin",
+          "horaAproximada": "05:24",
+          "latitud": 8.231804329689892,
+          "longitud": -73.35372162660232
+        },
+        {
+          "nombre": "Cra 9",
+          "horaAproximada": "05:24",
+          "latitud": 8.231476489667594,
+          "longitud": -73.35233626564396
+        },
+        {
+          "nombre": "Hotel Rancho Alegre",
+          "horaAproximada": "05:25",
+          "latitud": 8.231239279190602,
+          "longitud": -73.3518695903829
+        },
+        {
+          "nombre": "Cra 9, Cra 10",
+          "horaAproximada": "05:26",
+          "latitud": 8.231434895530594,
+          "longitud": -73.35125793288319
+        },
+        {
+          "nombre": "Gasolinera Pedro Paez",
+          "horaAproximada": "05:26",
+          "latitud": 8.23076326158005,
+          "longitud": -73.3504040900591
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:27",
+          "latitud": 8.22932955637021,
+          "longitud": -73.35031132353792
+        },
+        {
+          "nombre": "Jahmbrientos",
+          "horaAproximada": "05:28",
+          "latitud": 8.228987902971177,
+          "longitud": -73.34803889094681
+        },
+        {
+          "nombre": "Entrada El Bambo",
+          "horaAproximada": "05:28",
+          "latitud": 8.228158600144948,
+          "longitud": -73.3471230798488
+        },
+        {
+          "nombre": "Entrada El Ramal",
+          "horaAproximada": "05:29",
+          "latitud": 8.227122653899567,
+          "longitud": -73.34353538365482
+        },
+        {
+          "nombre": "Asadero Las Brasas",
+          "horaAproximada": "05:30",
+          "latitud": 8.226573734180677,
+          "longitud": -73.34182489196623
+        },
+        {
+          "nombre": "Entrada al Colsure",
+          "horaAproximada": "05:30",
+          "latitud": 8.225000279411407,
+          "longitud": -73.33783128125452
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:31",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:31",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:32",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:33",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:33",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        }
+      ],
+      "rutaVuelta": [
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:34",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:35",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:35",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:36",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:36",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Entrada al Colsure",
+          "horaAproximada": "05:37",
+          "latitud": 8.225000279411407,
+          "longitud": -73.33783128125452
+        },
+        {
+          "nombre": "Asadero Las Brasas",
+          "horaAproximada": "05:37",
+          "latitud": 8.226573734180677,
+          "longitud": -73.34182489196623
+        },
+        {
+          "nombre": "HONA muebles y decoración",
+          "horaAproximada": "05:38",
+          "latitud": 8.226979031864348,
+          "longitud": -73.34131965255509
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:38",
+          "latitud": 8.227666486747081,
+          "longitud": -73.34037499049967
+        },
+        {
+          "nombre": "Drogería Promesa de Dios",
+          "horaAproximada": "05:39",
+          "latitud": 8.228239219025825,
+          "longitud": -73.3405081064136
+        },
+        {
+          "nombre": "Efecty Promesa de Dios",
+          "horaAproximada": "05:39",
+          "latitud": 8.228441435653771,
+          "longitud": -73.34055324687607
+        },
+        {
+          "nombre": "Escuela cuesta blanca",
+          "horaAproximada": "05:40",
+          "latitud": 8.228116948477311,
+          "longitud": -73.34180530067803
+        },
+        {
+          "nombre": "La Mejor",
+          "horaAproximada": "05:40",
+          "latitud": 8.228629544043606,
+          "longitud": -73.34276988104922
+        },
+        {
+          "nombre": "Los recuerdos de anasca",
+          "horaAproximada": "05:41",
+          "latitud": 8.229661787242593,
+          "longitud": -73.34460638503818
+        },
+        {
+          "nombre": "Fritos sotero",
+          "horaAproximada": "05:41",
+          "latitud": 8.23087858593118,
+          "longitud": -73.34541288403307
+        },
+        {
+          "nombre": "Parroquia San Antonio de Padua",
+          "horaAproximada": "05:42",
+          "latitud": 8.231349475192427,
+          "longitud": -73.34569765672538
+        },
+        {
+          "nombre": "Restaurante la Piñuela",
+          "horaAproximada": "05:42",
+          "latitud": 8.232280954715996,
+          "longitud": -73.34738627657002
+        },
+        {
+          "nombre": "Antigua Escuela la Piñuela",
+          "horaAproximada": "05:43",
+          "latitud": 8.233053544281855,
+          "longitud": -73.34949209030961
+        },
+        {
+          "nombre": "Parque Tacaloa",
+          "horaAproximada": "05:43",
+          "latitud": 8.23351595289103,
+          "longitud": -73.35056752413198
+        },
+        {
+          "nombre": "Perfumes Colibrí",
+          "horaAproximada": "05:44",
+          "latitud": 8.234447703232291,
+          "longitud": -73.35089743583949
+        },
+        {
+          "nombre": "Droguería Farma Vida",
+          "horaAproximada": "05:45",
+          "latitud": 8.235031705171801,
+          "longitud": -73.35142314880086
+        },
+        {
+          "nombre": "Almacen Gran Andino",
+          "horaAproximada": "05:45",
+          "latitud": 8.235368380749774,
+          "longitud": -73.35234022469778
+        },
+        {
+          "nombre": "Parque Central",
+          "horaAproximada": "05:46",
+          "latitud": 8.235621628913986,
+          "longitud": -73.35322917987887
+        },
+        {
+          "nombre": "Calle Dulce Nombre",
+          "horaAproximada": "05:46",
+          "latitud": 8.23598592456577,
+          "longitud": -73.35420418370254
+        },
+        {
+          "nombre": "Calzado Regina",
+          "horaAproximada": "05:47",
+          "latitud": 8.236329298514582,
+          "longitud": -73.3550214615412
+        },
+        {
+          "nombre": "Autoservicio El Surtidor",
+          "horaAproximada": "05:47",
+          "latitud": 8.236849795181294,
+          "longitud": -73.35485762296402
+        },
+        {
+          "nombre": "Car-Vidrios Vidrios y Espejos",
+          "horaAproximada": "05:48",
+          "latitud": 8.237250851592066,
+          "longitud": -73.35477986575012
+        },
+        {
+          "nombre": "Villa Marina",
+          "horaAproximada": "05:48",
+          "latitud": 8.23744165969305,
+          "longitud": -73.35498482315745
+        },
+        {
+          "nombre": "Hotel Diamante",
+          "horaAproximada": "05:49",
+          "latitud": 8.238192159716245,
+          "longitud": -73.35473862049606
+        },
+        {
+          "nombre": "Panadería Ladi-Pan",
+          "horaAproximada": "05:49",
+          "latitud": 8.237939330200406,
+          "longitud": -73.35440187184386
+        },
+        {
+          "nombre": "Pincho Express",
+          "horaAproximada": "05:50",
+          "latitud": 8.238330338380443,
+          "longitud": -73.35396630943744
+        },
+        {
+          "nombre": "Agricola Catatumbo",
+          "horaAproximada": "05:50",
+          "latitud": 8.238822261661328,
+          "longitud": -73.35500068082906
+        },
+        {
+          "nombre": "Itografía Letras",
+          "horaAproximada": "05:51",
+          "latitud": 8.239069938229832,
+          "longitud": -73.35526317962224
+        },
+        {
+          "nombre": "Pintura Miguel Mezclas",
+          "horaAproximada": "05:51",
+          "latitud": 8.239191140938791,
+          "longitud": -73.35511227368568
+        },
+        {
+          "nombre": "TopTec",
+          "horaAproximada": "05:52",
+          "latitud": 8.239915580662677,
+          "longitud": -73.35500850299519
+        },
+        {
+          "nombre": "Domicilios Yp",
+          "horaAproximada": "05:52",
+          "latitud": 8.239798019575206,
+          "longitud": -73.35553833862204
+        },
+        {
+          "nombre": "Gnosis Ocaña",
+          "horaAproximada": "05:53",
+          "latitud": 8.24030876010657,
+          "longitud": -73.35652474811546
+        },
+        {
+          "nombre": "Iglesia del Llano",
+          "horaAproximada": "05:53",
+          "latitud": 8.241841430041715,
+          "longitud": -73.35652401194311
+        },
+        {
+          "nombre": "Multipagos JV",
+          "horaAproximada": "05:54",
+          "latitud": 8.24242821173397,
+          "longitud": -73.35647541310881
+        },
+        {
+          "nombre": "A tu casa",
+          "horaAproximada": "05:55",
+          "latitud": 8.24271078047639,
+          "longitud": -73.35644503883705
+        },
+        {
+          "nombre": "Arteregalos",
+          "horaAproximada": "05:55",
+          "latitud": 8.24326388006005,
+          "longitud": -73.35625303531478
+        },
+        {
+          "nombre": "Madeko Ocaña",
+          "horaAproximada": "05:56",
+          "latitud": 8.243842894055623,
+          "longitud": -73.35641361536551
+        },
+        {
+          "nombre": "Los profesores del asado",
+          "horaAproximada": "05:56",
+          "latitud": 8.244367701750932,
+          "longitud": -73.35641486017457
+        },
+        {
+          "nombre": "Bankroll",
+          "horaAproximada": "05:57",
+          "latitud": 8.245606544267268,
+          "longitud": -73.35652610955052
+        },
+        {
+          "nombre": "Y del llano",
+          "horaAproximada": "05:57",
+          "latitud": 8.246274561531353,
+          "longitud": -73.35665336672865
+        },
+        {
+          "nombre": "Semaforo del Llano",
+          "horaAproximada": "05:58",
+          "latitud": 8.246464109169915,
+          "longitud": -73.35670018009463
+        },
+        {
+          "nombre": "La Chispita Roja",
+          "horaAproximada": "05:58",
+          "latitud": 8.248005090603057,
+          "longitud": -73.35696062953113
+        },
+        {
+          "nombre": "Parque los seguros",
+          "horaAproximada": "05:59",
+          "latitud": 8.249472266319415,
+          "longitud": -73.35720237955655
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:59",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "06:00",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "06:00",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "06:01",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "06:01",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "06:02",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "06:02",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "06:03",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "La Y",
+          "horaAproximada": "06:03",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        }
+      ]
+    },
+    {
+      "nombre": "Circunvalar",
+      "color": "#2ecc71",
+      "horarioInicio": "5:30",
+      "horarioCierre": "18:00",
+      "rutaIda": [
+        {
+          "nombre": "La Y",
+          "horaAproximada": "05:06",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "05:07",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "05:08",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "05:08",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "05:09",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "05:10",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "05:10",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "05:11",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:12",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Parque los seguros",
+          "horaAproximada": "05:13",
+          "latitud": 8.249472266319415,
+          "longitud": -73.35720237955655
+        },
+        {
+          "nombre": "Auteco Centro de Servicio Autorizado",
+          "horaAproximada": "05:14",
+          "latitud": 8.249299583402706,
+          "longitud": -73.35568529005418
+        },
+        {
+          "nombre": "El uvito",
+          "horaAproximada": "05:14",
+          "latitud": 8.247604069732745,
+          "longitud": -73.35351863399642
+        },
+        {
+          "nombre": "Vida Pan Panadería",
+          "horaAproximada": "05:15",
+          "latitud": 8.246456682830004,
+          "longitud": -73.35313121867951
+        },
+        {
+          "nombre": "Distribuciones Serna",
+          "horaAproximada": "05:16",
+          "latitud": 8.245258171172935,
+          "longitud": -73.35225020753563
+        },
+        {
+          "nombre": "Lavaderos el mono",
+          "horaAproximada": "05:16",
+          "latitud": 8.244536790361446,
+          "longitud": -73.35128597385048
+        },
+        {
+          "nombre": "Tecnichasis y compactos Ocaña",
+          "horaAproximada": "05:17",
+          "latitud": 8.243099704983518,
+          "longitud": -73.35012946737075
+        },
+        {
+          "nombre": "Motel el Eden",
+          "horaAproximada": "05:18",
+          "latitud": 8.242430245483632,
+          "longitud": -73.34958496961671
+        },
+        {
+          "nombre": "FERRE H&S",
+          "horaAproximada": "05:19",
+          "latitud": 8.241892399916784,
+          "longitud": -73.34900159559494
+        },
+        {
+          "nombre": "Acosto Ferreteria",
+          "horaAproximada": "05:20",
+          "latitud": 8.242258560400535,
+          "longitud": -73.34770435599759
+        },
+        {
+          "nombre": "Autoservicio Felipe",
+          "horaAproximada": "05:20",
+          "latitud": 8.242333007924298,
+          "longitud": -73.3468523228982
+        },
+        {
+          "nombre": "Curva del Diablo",
+          "horaAproximada": "05:21",
+          "latitud": 8.241713117894767,
+          "longitud": -73.34664967718753
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:22",
+          "latitud": 8.241072480646974,
+          "longitud": -73.34752255820776
+        },
+        {
+          "nombre": "24-7 Conequipos S.A.S",
+          "horaAproximada": "05:22",
+          "latitud": 8.239392084876673,
+          "longitud": -73.34783880832961
+        },
+        {
+          "nombre": "Mofles Taller",
+          "horaAproximada": "05:23",
+          "latitud": 8.238784448280274,
+          "longitud": -73.34776494284472
+        },
+        {
+          "nombre": "Leon Distribuciones S.A.S",
+          "horaAproximada": "05:24",
+          "latitud": 8.237670872567449,
+          "longitud": -73.34648552914301
+        },
+        {
+          "nombre": "Lonchería y resturante El Gran Sabor",
+          "horaAproximada": "05:25",
+          "latitud": 8.236954147569836,
+          "longitud": -73.34558162471224
+        },
+        {
+          "nombre": "Aprender es crecer",
+          "horaAproximada": "05:26",
+          "latitud": 8.23645562572028,
+          "longitud": -73.34484204208353
+        },
+        {
+          "nombre": "Multirepuestos Ocaña",
+          "horaAproximada": "05:26",
+          "latitud": 8.23578654951545,
+          "longitud": -73.34360772677472
+        },
+        {
+          "nombre": "Terminal de Transportes",
+          "horaAproximada": "05:27",
+          "latitud": 8.234584857156987,
+          "longitud": -73.3416955328934
+        },
+        {
+          "nombre": "BioExito S.A.S",
+          "horaAproximada": "05:28",
+          "latitud": 8.231883366767558,
+          "longitud": -73.33972089024464
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:28",
+          "latitud": 8.230775230991112,
+          "longitud": -73.33863439832426
+        },
+        {
+          "nombre": "Motel 24 horas",
+          "horaAproximada": "05:29",
+          "latitud": 8.2292376485604,
+          "longitud": -73.33825573972184
+        },
+        {
+          "nombre": "Vennus",
+          "horaAproximada": "05:30",
+          "latitud": 8.228227295041659,
+          "longitud": -73.33818422061607
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:31",
+          "latitud": 8.227175706968579,
+          "longitud": -73.33819362084917
+        },
+        {
+          "nombre": "Multipollo Acolsure",
+          "horaAproximada": "05:32",
+          "latitud": 8.225585346505678,
+          "longitud": -73.33745513307434
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:32",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:33",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:34",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:34",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:35",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        }
+      ],
+      "rutaVuelta": [
+        {
+          "nombre": "UFPSO",
+          "horaAproximada": "05:36",
+          "latitud": 8.234742285003215,
+          "longitud": -73.32135120450509
+        },
+        {
+          "nombre": "Entrada la Ladrillera",
+          "horaAproximada": "05:37",
+          "latitud": 8.2316840749041,
+          "longitud": -73.3234813755647
+        },
+        {
+          "nombre": "Colegio Artistico",
+          "horaAproximada": "05:38",
+          "latitud": 8.230828194929378,
+          "longitud": -73.32583582209568
+        },
+        {
+          "nombre": "Escuela Normal Superior",
+          "horaAproximada": "05:38",
+          "latitud": 8.228753385168789,
+          "longitud": -73.33061845004715
+        },
+        {
+          "nombre": "Y Universidad",
+          "horaAproximada": "05:39",
+          "latitud": 8.223876994336166,
+          "longitud": -73.33666247794756
+        },
+        {
+          "nombre": "Multipollo Acolsure",
+          "horaAproximada": "05:40",
+          "latitud": 8.225585346505678,
+          "longitud": -73.33745513307434
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:40",
+          "latitud": 8.227175706968579,
+          "longitud": -73.33819362084917
+        },
+        {
+          "nombre": "Vennus",
+          "horaAproximada": "05:41",
+          "latitud": 8.228227295041659,
+          "longitud": -73.33818422061607
+        },
+        {
+          "nombre": "Motel 24 horas",
+          "horaAproximada": "05:42",
+          "latitud": 8.2292376485604,
+          "longitud": -73.33825573972184
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:43",
+          "latitud": 8.230775230991112,
+          "longitud": -73.33863439832426
+        },
+        {
+          "nombre": "BioExito S.A.S",
+          "horaAproximada": "05:44",
+          "latitud": 8.231883366767558,
+          "longitud": -73.33972089024464
+        },
+        {
+          "nombre": "Terminal de Transportes",
+          "horaAproximada": "05:44",
+          "latitud": 8.234584857156987,
+          "longitud": -73.3416955328934
+        },
+        {
+          "nombre": "Multirepuestos Ocaña",
+          "horaAproximada": "05:45",
+          "latitud": 8.23578654951545,
+          "longitud": -73.34360772677472
+        },
+        {
+          "nombre": "Aprender es crecer",
+          "horaAproximada": "05:46",
+          "latitud": 8.23645562572028,
+          "longitud": -73.34484204208353
+        },
+        {
+          "nombre": "Lonchería y resturante El Gran Sabor",
+          "horaAproximada": "05:46",
+          "latitud": 8.236954147569836,
+          "longitud": -73.34558162471224
+        },
+        {
+          "nombre": "Leon Distribuciones S.A.S",
+          "horaAproximada": "05:47",
+          "latitud": 8.237670872567449,
+          "longitud": -73.34648552914301
+        },
+        {
+          "nombre": "Mofles Taller",
+          "horaAproximada": "05:48",
+          "latitud": 8.238784448280274,
+          "longitud": -73.34776494284472
+        },
+        {
+          "nombre": "24-7 Conequipos S.A.S",
+          "horaAproximada": "05:49",
+          "latitud": 8.239392084876673,
+          "longitud": -73.34783880832961
+        },
+        {
+          "nombre": "Punto Intermedio",
+          "horaAproximada": "05:50",
+          "latitud": 8.241072480646974,
+          "longitud": -73.34752255820776
+        },
+        {
+          "nombre": "Curva del Diablo",
+          "horaAproximada": "05:50",
+          "latitud": 8.241713117894767,
+          "longitud": -73.34664967718753
+        },
+        {
+          "nombre": "Autoservicio Felipe",
+          "horaAproximada": "05:51",
+          "latitud": 8.242333007924298,
+          "longitud": -73.3468523228982
+        },
+        {
+          "nombre": "Acosto Ferreteria",
+          "horaAproximada": "05:52",
+          "latitud": 8.242258560400535,
+          "longitud": -73.34770435599759
+        },
+        {
+          "nombre": "FERRE H&S",
+          "horaAproximada": "05:52",
+          "latitud": 8.241892399916784,
+          "longitud": -73.34900159559494
+        },
+        {
+          "nombre": "Motel el Eden",
+          "horaAproximada": "05:53",
+          "latitud": 8.242430245483632,
+          "longitud": -73.34958496961671
+        },
+        {
+          "nombre": "Tecnichasis y compactos Ocaña",
+          "horaAproximada": "05:54",
+          "latitud": 8.243099704983518,
+          "longitud": -73.35012946737075
+        },
+        {
+          "nombre": "Lavaderos el mono",
+          "horaAproximada": "05:55",
+          "latitud": 8.244536790361446,
+          "longitud": -73.35128597385048
+        },
+        {
+          "nombre": "Distribuciones Serna",
+          "horaAproximada": "05:56",
+          "latitud": 8.245258171172935,
+          "longitud": -73.35225020753563
+        },
+        {
+          "nombre": "Vida Pan Panadería",
+          "horaAproximada": "05:56",
+          "latitud": 8.246456682830004,
+          "longitud": -73.35313121867951
+        },
+        {
+          "nombre": "El uvito",
+          "horaAproximada": "05:57",
+          "latitud": 8.247604069732745,
+          "longitud": -73.35351863399642
+        },
+        {
+          "nombre": "Auteco Centro de Servicio Autorizado",
+          "horaAproximada": "05:58",
+          "latitud": 8.249299583402706,
+          "longitud": -73.35568529005418
+        },
+        {
+          "nombre": "Parque los seguros",
+          "horaAproximada": "05:58",
+          "latitud": 8.249472266319415,
+          "longitud": -73.35720237955655
+        },
+        {
+          "nombre": "Entrada Primero de Mayo",
+          "horaAproximada": "05:59",
+          "latitud": 8.25057468016405,
+          "longitud": -73.35825487157666
+        },
+        {
+          "nombre": "Sede Invias UFPSO",
+          "horaAproximada": "06:00",
+          "latitud": 8.254566073381207,
+          "longitud": -73.3595093142128
+        },
+        {
+          "nombre": "El Coliseo",
+          "horaAproximada": "06:01",
+          "latitud": 8.256895871598793,
+          "longitud": -73.35974278183537
+        },
+        {
+          "nombre": "Piscina Olimpica",
+          "horaAproximada": "06:02",
+          "latitud": 8.259888113243012,
+          "longitud": -73.35948929438337
+        },
+        {
+          "nombre": "Y de las Lomas",
+          "horaAproximada": "06:02",
+          "latitud": 8.264390398653383,
+          "longitud": -73.3610794225456
+        },
+        {
+          "nombre": "Puente Peatonal Santa Clara",
+          "horaAproximada": "06:03",
+          "latitud": 8.267432486104406,
+          "longitud": -73.36400546823404
+        },
+        {
+          "nombre": "Gasolinera Cootransunidos",
+          "horaAproximada": "06:04",
+          "latitud": 8.267792059355948,
+          "longitud": -73.36533167526926
+        },
+        {
+          "nombre": "Puente de la Sal",
+          "horaAproximada": "06:04",
+          "latitud": 8.269585627823284,
+          "longitud": -73.36628678832898
+        },
+        {
+          "nombre": "La Y",
+          "horaAproximada": "06:05",
+          "latitud": 8.274793928191606,
+          "longitud": -73.36781580200797
+        }
+      ]
+    }
+  ]
+}
